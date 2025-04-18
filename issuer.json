@@ -7,7 +7,9 @@
   "publicKey": [{
     "id": "ecdsa-koblitz-pubkey",
     "created": "2024-01-01T00:00:00Z",
-    "publicKeyHex": "YOUR_PUBLIC_KEY_HERE",
+    "publicKeyHex": "04ea31609d6e0ff75119b04988ebcbc26877b46a15081f98119efe0de794
+e428a946ee01d387dd5e94de3bea0017e058c1c7526dc5b8e9f5449c2a98
+602fd64554",
     "revoked": false
   }]
 }
