@@ -1,0 +1,13 @@
+{
+  "id": "https://<your-github-username>.github.io/blockcerts-issuer/issuer.json",
+  "name": "Your School or Organization Name",
+  "url": "https://<your-github-username>.github.io",
+  "email": "your@email.com",
+  "image": "https://yourdomain.com/logo.png",
+  "publicKey": [{
+    "id": "ecdsa-koblitz-pubkey",
+    "created": "2024-01-01T00:00:00Z",
+    "publicKeyHex": "YOUR_PUBLIC_KEY_HERE",
+    "revoked": false
+  }]
+}
